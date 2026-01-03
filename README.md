@@ -1,7 +1,7 @@
 Currently Working on algorithmic trading, with good drawdowns and good riskmodels
 ---
 
-## 🛠 Tech Stack
+## 🛠 Stack :
 
 <div align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40"/>
