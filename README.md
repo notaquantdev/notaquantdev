@@ -27,9 +27,10 @@
 
 ---
 
-<p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=notaquantdev&layout=compact&hide_border=true&langs_count=8"
-    height="180"
-  />
+
+ <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=notaquantdev&layout=compact&hide_border=true&langs_count=5"
+  width="400"
+/>
+
 </p>
