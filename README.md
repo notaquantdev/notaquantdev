@@ -70,9 +70,3 @@
 
 ---
 
-## 📫 Let's Connect
-<p align="left">
-  <!-- Add your links here, e.g. -->
-  <!-- <a href="https://linkedin.com/in/yourhandle"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30"/></a> -->
-  <!-- <a href="mailto:you@example.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" height="30"/></a> -->
-</p>
