@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm a Shopify & Fullstack Developer</h1>
+<h1 align="center"> I'm a Shopify & Fullstack Developer</h1>
 <h3 align="center">Building custom Shopify themes • Learning automation, C & C++</h3>
 
 <p align="center">
