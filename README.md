@@ -1,72 +1,78 @@
-<h1 align="center"> I'm a Shopify & Fullstack Developer</h1>
-<h3 align="center">Building custom Shopify themes • Learning automation, C & C++</h3>
+<h1 align="center">Shopify & Full-Stack Developer</h1>
 
 <p align="center">
-  I design and build custom <b>Shopify theme websites</b> for e-commerce brands, and work as a
-  <b>fullstack web developer</b> on the side. Currently deepening my low-level programming skills
-  with <b>C</b> and <b>C++</b>, and exploring <b>automation</b> tooling to speed up dev workflows.
+  I build custom Shopify storefronts and scalable web applications for e-commerce brands.
+</p>
+
+<p align="center">
+  <b>Shopify Development</b> · <b>Full-Stack Engineering</b> · <b>Workflow Automation</b>
 </p>
 
 ---
 
-## 🛍️ Shopify Development
-- Custom theme design & development (Liquid, Online Store 2.0 sections/blocks)
-- Theme customization, speed optimization & Core Web Vitals tuning
-- Shopify app integrations & storefront API work
+## About
 
-## 💻 Fullstack Development
-- Frontend: React, Next.js, TypeScript, JavaScript
-- Backend: Node.js, Python
-- Databases: MySQL, PostgreSQL, MongoDB
+I specialize in designing and developing custom Shopify themes using Liquid and Online Store 2.0.
 
-## 🤖 Currently Learning
-- Automation & workflow scripting
-- C & C++ (systems / low-level programming)
+My work focuses on building fast, maintainable storefronts with a strong emphasis on performance, responsive design, conversion-focused user experience, and clean implementation.
 
----
+Alongside Shopify development, I build full-stack applications and automation tools using modern JavaScript, TypeScript, Node.js, and Python.
 
-## 🛠 Stack
+## Expertise
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" height="40"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-</div>
+### Shopify
 
----
+* Custom Shopify theme development
+* Liquid, sections, blocks, and theme architecture
+* Theme customization and feature development
+* Shopify app and API integrations
+* Storefront performance optimization
+* Core Web Vitals improvements
+* Responsive and conversion-focused interfaces
 
-## 📊 GitHub Stats
+### Full-Stack Development
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=notaquantdev&show_icons=true&hide_border=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=notaquantdev&layout=compact&hide_border=true&langs_count=6" height="165"/>
+* React and Next.js applications
+* TypeScript and JavaScript
+* Node.js backend development
+* Python scripting and automation
+* REST API development and integrations
+* Relational and NoSQL databases
+
+## Technology
+
+<p>
+  <img width="36"  height="36"" alt="image" src="https://github.com/user-attachments/assets/1151ab72-55ba-4f62-8731-9718ff44b6de" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="Next.js"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" alt="JavaScript"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36" alt="Node.js"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="36" alt="MySQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36" alt="MongoDB"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" alt="Git"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="36" alt="C"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="36" alt="C++"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=notaquantdev&hide_border=true" height="165"/>
-</p>
+## Current Focus
 
----
+* Building reusable Shopify theme systems
+* Automating repetitive development workflows
+* Improving storefront performance and maintainability
+* Expanding systems programming knowledge with C and C++
 
