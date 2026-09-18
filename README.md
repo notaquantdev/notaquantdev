@@ -25,5 +25,7 @@
 - 🔧 Automate workflows with Python and TypeScript
 
 ### Currently
-- 🚧 Building reusable Shopify theme systems
-- 📚 Learning C / C++
+- 💼 Full-time Shopify & full-stack developer
+- 🚧 Building custom Shopify theme systems and storefront features for e-commerce brands
+- 🌍 Open to Shopify dev partnerships 
+- 📚 Deepening full-stack fundamentals with C / C++
