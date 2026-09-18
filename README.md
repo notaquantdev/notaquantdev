@@ -1,4 +1,4 @@
-<h1 align="center">Shopify & Full-Stack Developer</h1>
+<h3 align="center">Shopify & Full-Stack Developer</h3>
 <p align="center">I build custom Shopify storefronts and full-stack web apps for e-commerce brands.</p>
 
 <p align="center">
@@ -20,10 +20,10 @@
 ---
 
 ### What I do
-- Build custom Shopify themes with Liquid & Online Store 2.0
-- Build full-stack apps with React, Next.js, and Node.js
-- Automate workflows with Python and TypeScript
+- 🛍️ Build custom Shopify themes with Liquid & Online Store 2.0
+- ⚡ Build full-stack apps with React, Next.js, and Node.js
+- 🔧 Automate workflows with Python and TypeScript
 
 ### Currently
-- Building reusable Shopify theme systems
-- Learning C / C++
+- 🚧 Building reusable Shopify theme systems
+- 📚 Learning C / C++
