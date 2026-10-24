@@ -1,5 +1,4 @@
-<h3 align="center">Shopify & Full-Stack Developer</h3>
-<p align="center">I build custom Shopify storefronts and full-stack web apps for e-commerce brands.</p>
+<h3 align="center">Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React"/>&nbsp;
@@ -16,16 +15,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="C"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++"/>
 </p>
-
----
-
-### What I do
-- 🛍️ Build custom Shopify themes with Liquid & Online Store 2.0
-- ⚡ Build full-stack apps with React, Next.js, and Node.js
-- 🔧 Automate workflows with Python and TypeScript
-
-### Currently
-- 💼 Full-time Shopify & full-stack developer
-- 🚧 Building custom Shopify theme systems and storefront features for e-commerce brands
-- 🌍 Open to Shopify dev partnerships 
-- 📚 Deepening full-stack fundamentals with C / C++
